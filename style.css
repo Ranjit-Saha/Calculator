@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Fira+Sans:ital@1&family=Roboto+Mono:wght@100;500&family=Roboto:wght@300&family=Source+Code+Pro:wght@300&display=swap');
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Fira Sans', sans-seri;
+}
+.button {
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+  
+
+}
+.row{
+  margin: 5px 0 ;
+}
+.row input {
+
+    font-size: 25px;
+    margin: 0;
+    padding: 12px 0px;
+    border: 2px solid black;
+    border-radius: 4px;
+  }
