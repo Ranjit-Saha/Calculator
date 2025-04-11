@@ -44,3 +44,12 @@ Calculator-Project/
 ├── script.js
 ├── demo.png
 └── README.md
+
+🔧 How to Run Locally
+1. Clone the repository
+git clone https://github.com/Ranjit-Saha/Calculator-Project.git
+
+2. Navigate to the project folder
+cd Calculator-Project
+
+3. Open index.html in your preferred browser
